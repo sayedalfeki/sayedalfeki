@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sayedalfeki
-- 👀 I’m interested in mobile application
-- 🌱 I’m currently learning flutter 
-- 💞️ I’m looking to collaborate on mobile application
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning datastructurs and algorithme
+- 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me selfeki207@gmail.com
 
 <!---
