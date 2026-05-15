@@ -1,29 +1,27 @@
-# Hi there! 👋 I'm Sayed Alfeki
+# Hi there, I'm elfeki 👋
 
-## About Me
-I'm a **Flutter Developer** passionate about creating high-quality mobile applications. With expertise in full-stack mobile development and database management, I focus on building scalable, user-friendly apps that solve real-world problems.
-
-## 🔧 Technical Skills
-- **Mobile Development:** Flutter, Dart
-- **Databases:** SQL, NoSQL
-- **Backend:** RESTful APIs, Firebase
-- **Tools & Platforms:** Git, Android Studio, VS Code
-
-## 🌱 What I'm Currently Learning
-- Advanced Flutter architecture patterns
-- Cloud services and deployment optimization
-- Cross-platform mobile development best practices
-
-## 💼 Professional Focus
-Creating performant, maintainable mobile applications with clean code and best practices.
-
-## 📫 Get in Touch
-- **Email:** selfeki207@gmail.com
-- **GitHub:** [@sayedalfeki](https://github.com/sayedalfeki)
+### 🚀 Software Engineer | Flutter 
+I'm a passionate mobile developer focused on building high-performance, scalable, and user-centric applications. Currently deep-diving into **Clean Architecture** and reactive programming with **BLoC**.
 
 ---
 
-<!---
-sayedalfeki/sayedalfeki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Dart
+- **Frameworks:** Flutter, Android SDK
+- **Architecture:** Clean Architecture, MVVM, MVI
+- **State Management:** BLoC, Provider, GetX
+- **Database & Backend:** Firebase (Firestore, Auth, Cloud Functions), drift,isar, SQLite, Hive
+- **Networking:** Dio, Retrofit, REST APIs, WebSockets
+- **DevOps & Tools:** Git, GitHub Actions, CI/CD,
+
+---
+
+
+### 📫 Connect with me:
+- **Email:** selfeki207@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/sayed-elfeki-43371a20b))
+- 
+
+---
+*"Code is like humor. When you have to explain it, it’s bad."*
